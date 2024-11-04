@@ -7,6 +7,7 @@ export default function Navbar() {
                 </h1>
                 <ul className="list-unstyled d-flex gap-3 mb-0">
                     <li><a href="#" className="fw-medium text-decoration-none link-hover">All Tasks</a></li>
+                    <li><a href="#" className="fw-medium text-decoration-none link-hover">Pending Tasks</a></li>
                     <li><a href="#" className="fw-medium text-decoration-none link-hover">Completed Tasks</a></li>
                 </ul>
                 <div className="d-flex gap-3">
