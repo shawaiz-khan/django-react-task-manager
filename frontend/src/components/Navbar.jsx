@@ -11,8 +11,7 @@ export default function Navbar() {
                     <li><a href="#" className="fw-medium text-decoration-none link-hover">Completed Tasks</a></li>
                 </ul>
                 <div className="d-flex gap-3">
-                    <button className="btn btn-danger">Log in</button>
-                    <button className="btn btn-danger">Sign up</button>
+                    <button className="btn btn-danger">Login / Sign-up</button>
                 </div>
             </nav>
         </header>
