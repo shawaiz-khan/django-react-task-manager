@@ -1,5 +1,4 @@
 import TodoList from '../components/TodoList';
-import AddTodo from './AddTodo';
 
 function AllTodo() {
     return (
@@ -19,7 +18,6 @@ function AllTodo() {
                 </div>
             </div>
             <TodoList />
-            <AddTodo />
         </main>
     );
 }
